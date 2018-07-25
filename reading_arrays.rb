@@ -1,4 +1,4 @@
-STUDENT_NAMES = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "N"
+STUDENT_NAMES = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
   "Adele",
   "Beyoncé",
   "Cardi B",
@@ -9,6 +9,8 @@ STUDENT_NAMES = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "N"
 
 def first_student_by_index
   # Write a solution that returns the first student in the array student_names
+  student_names=["Adele","Beyoncé","Cardi", "Lady Gaga", "Nicki Minaj", "Rihanna"]
+  puts student_names.first
 end
 
 def fourth_student_by_index
