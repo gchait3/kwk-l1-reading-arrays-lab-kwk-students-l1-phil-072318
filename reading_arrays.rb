@@ -19,6 +19,7 @@ def fourth_student_by_index
   student_names = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
   puts student_names[4]
   fourth_student_by_index
+  end
 end
 
 def last_student_by_index
